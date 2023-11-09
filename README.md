@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StarkArk
 - 👀 I’m interested in ...Data Analysis
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Flask, SQLAlchemy, HTML, CSS
 - 💞️ I’m looking to collaborate on ...Interesting Projects
 - 📫 How to reach me ...Cherif.Arkam@gmail.com
 
